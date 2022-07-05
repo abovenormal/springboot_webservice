@@ -1,4 +1,4 @@
-package com.david.book.springboot.dto;
+package com.david.book.springboot.web.dto;
 
 import com.david.book.springboot.web.dto.HelloResponseDto;
 import static org.assertj.core.api.Assertions.assertThat;

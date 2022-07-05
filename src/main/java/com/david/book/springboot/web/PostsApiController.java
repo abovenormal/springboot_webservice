@@ -18,4 +18,6 @@ public class PostsApiController {
         return postsService.save(requestDto);
     }
 
+
+
 }

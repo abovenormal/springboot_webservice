@@ -1,4 +1,4 @@
-package com.david.book.springboot;
+package com.david.book.springboot.web;
 
 import com.david.book.springboot.web.HelloController;
 import org.junit.Test;
